@@ -1,0 +1,8 @@
+{
+  "name": "Test Dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "6518b3b7"
+}

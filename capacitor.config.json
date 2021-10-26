@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Test Dashboard",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
